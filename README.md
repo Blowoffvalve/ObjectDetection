@@ -2,7 +2,7 @@
 An evaluation of OpenCV's object detection API for aerial tracking.
 
 ## [Object Tracking](https://github.com/Blowoffvalve/ObjectDetection/blob/master/ObjectTracking.ipynb)
-In this notebook, i evaluate the following OpenCV Object Tracking Algorithms. 
+In this [notebook](https://github.com/Blowoffvalve/ObjectDetection/blob/master/ObjectTracking.ipynb), i evaluate the following OpenCV Object Tracking Algorithms. 
 The performance of the trackers was evaluated using 2 videos. 
 For each tracker, an annotated video of the runtime statistics of the tracker's performance is linked.
   * [Boosting Tracker](https://docs.opencv.org/4.0.1/d1/d1a/classcv_1_1TrackerBoosting.html) : [Video0](https://drive.google.com/open?id=1SwmeoEPjQ5JIcKBfKp7dyigJnqwLdfqC), [Video1](https://drive.google.com/open?id=1alrXKKABXKR5_PwyLkmkDNZK65rerD8s).  
