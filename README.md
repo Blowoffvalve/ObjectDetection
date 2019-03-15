@@ -1,5 +1,5 @@
-# ObjectDetection
-An evaluation of OpenCV's object detection API for aerial tracking.
+# Object Detection and tracking
+An evaluation of OpenCV's object detection and tracking API for aerial tracking.
 
 ## [Object Tracking](https://github.com/Blowoffvalve/ObjectDetection/blob/master/ObjectTracking.ipynb)
 In this [notebook](https://github.com/Blowoffvalve/ObjectDetection/blob/master/ObjectTracking.ipynb), i evaluate the following OpenCV Object Tracking Algorithms. 
